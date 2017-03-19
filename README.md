@@ -1,3 +1,6 @@
+- URL
+  - https://fathomless-dawn-58541.herokuapp.com/
+
 - Requires
   - rails 5.0.1
   - postgres
